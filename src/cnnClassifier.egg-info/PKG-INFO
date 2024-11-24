@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/punithkumar-10/Cat-vs-Dog-Classifier-End-to-End-Deep-Learning-Project
+Author: punithkumar-10
+Author-email: punithkumarnimmala@gmail.com
+Project-URL: Bug Tracker, https://github.com/punithkumar-10/Cat-vs-Dog-Classifier-End-to-End-Deep-Learning-Project/issues
+License-File: LICENSE
+
+# Cat-vs-Dog-Classifier-End-to-End-Deep-Learning-Project
