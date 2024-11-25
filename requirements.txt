@@ -13,4 +13,6 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
+box
+setuptools
 -e . # this will look for setup.py file (for easy installation)
